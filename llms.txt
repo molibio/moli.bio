@@ -1,0 +1,17 @@
+# Moli
+
+> Moli is a foundation model-powered AI copilot for safety assessment of raw biomaterials, helping researchers and safety assessors evaluate chemical safety through molecular intelligence. Data retrieval, analysis and reporting in one integrated system.
+
+## Product
+- AI-powered safety assessment: Assess chemical safety of raw biomaterials using foundation models trained on molecular data
+- Comprehensive analysis: Retrieve relevant data, analyze molecular properties, and generate safety reports
+- Integrated workflow: Streamline safety assessment workflows without switching between multiple tools
+
+## Foundation Models
+- Foundation model for safety workflows: Advanced AI models trained specifically for predictive toxicology
+
+## Recognition
+Moli has been nominated for the Lush Young Researcher Prize 2026, recognizing innovation in non-animal methods for chemical safety assessment.
+
+## Resources
+- <a href="https://lushprize.org/2026-prize/2026-prize-shortlist/">Lush Prize 2026 Shortlist</a>: Fouder's nomination for Young Researcher Prize
